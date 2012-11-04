@@ -1,4 +1,4 @@
 algorithms
 ==========
 
-"algorithms in perl" ports to ruby
+"Algorithms in Perl" ports to Ruby
